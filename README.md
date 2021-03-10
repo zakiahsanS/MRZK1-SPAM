@@ -15,11 +15,12 @@ Terjadi Apa² dengan anda!
 ```
 # Buat Runnya
 ```BASH
-• git clone https://github.com/Latip176/spamSms
-• cd spamSms
-• python3 latip.py
+• git clone https://github.com/zakiahsanS/SpamSms
+• cd SpamSms
+• python3 lord.py
 ```
 # Addtional Information
 ```PHP
-LATIP GANTENG :V JANGAN REMAKE YAH SAYANG :)
-```
+* LATIP <author>
+
+* lord <author>
