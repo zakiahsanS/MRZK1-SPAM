@@ -1,5 +1,5 @@
 # Ssan Script
-<img src="latip.jpg" alt="Ssan Cok">
+<img src="lord.jpg" alt="Ssan Cok">
 
 # Information
 Jangan Salah Gunakan Script Ini!
