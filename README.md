@@ -15,8 +15,8 @@ Terjadi Apa² dengan anda!
 ```
 # Buat Runnya
 ```BASH
-• git clone https://github.com/zakiahsanS/Spamsms
-• cd Spamsms
+• git clone https://github.com/zakiahsanS/MRZK1-SPAM
+• cd MRZK1-SPAM
 • python3 lord.py
 ```
 # Addtional Information
