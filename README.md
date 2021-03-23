@@ -21,6 +21,6 @@ Terjadi Apa² dengan anda!
 ```
 # Addtional Information
 ```PHP
-* LATIP <author>
+• LATIP <author>
 
-* lord <author>
+• lord <author>
